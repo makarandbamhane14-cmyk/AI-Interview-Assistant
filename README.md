@@ -11,7 +11,7 @@ An AI-powered interview preparation platform built using Python and Streamlit.
 ## Tech Stack
 - Python
 - Streamlit
-- Gemini API
+- Groq API
 
 ## Status
 🚧 Under Development
